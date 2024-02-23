@@ -1,0 +1,3 @@
+pyplot
+pyqt5
+pandas
